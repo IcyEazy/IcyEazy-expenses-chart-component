@@ -35,8 +35,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://github.com/IcyEazy/IcyEazy-expenses-chart-component.git)
+- Live Site URL: [Add live site URL here](https://icyeazy.github.io/IcyEazy-expenses-chart-component/)
 
 ## My process
 
@@ -54,7 +54,6 @@ I learned how to improve my D3 knowledge.
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
 - Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/IcyEazy)
 - Twitter - [@yourusername](https://www.twitter.com/Ic-Eazy)
 
